@@ -1,10 +1,10 @@
 # RM
 
-CFGS Desenrotllament d'Aplicacions Web
+CFGS Desarrollo de Aplicaciones web
 
-Entorns de Desenrotllament
+Entornos de Desarrollo
 
-## Programa del joc de la vida
+## Programa del Juego de la vida
 
-Programa exemple per activitat de Github amb Python
+Programa realizado para hacer una actividad de Python
 
